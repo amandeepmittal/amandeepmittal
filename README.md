@@ -22,6 +22,6 @@ Tech writer and a sof
 
 **Follow me on:**
 
-- Blog: `https://amanhimself.dev`
-- X: `https://x.com/amanhimself`
-- Bluesky: `https://bsky.app/profile/aman.bsky.social`
+- Blog: [amanhimself.dev](https://amanhimself.dev)
+- X: [@amanhimself](https://x.com/amanhimself)
+- Bluesky: [@aman.bsky.social](https://bsky.app/profile/aman.bsky.social)
