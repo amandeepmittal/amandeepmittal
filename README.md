@@ -2,8 +2,6 @@
 
 <!-- This profile README is automatically updated with the latest posts from [amanhimself.dev](https://amanhimself.dev). -->
 
-Tech writer and a sof
-
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
