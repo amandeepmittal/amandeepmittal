@@ -2,9 +2,12 @@
 
 <!-- This profile README is automatically updated with the latest posts from [amanhimself.dev](https://amanhimself.dev). -->
 
-## Latest blog posts
+Tech writer and a sof
+
+### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+
 - [How to use multiple iOS simulators at once with Expo CLI](https://amanhimself.dev/blog/switch-between-ios-simulators/) - Sat, Nov 08 2025
 - [Large header title in Expo Router](https://amanhimself.dev/blog/large-header-title-in-expo-router/) - Sun, Nov 02 2025
 - [RSS feed in an Astro blog](https://amanhimself.dev/blog/rss-feed-in-an-astro-blog/) - Sun, Oct 12 2025
@@ -16,3 +19,9 @@
 - [Inline footnotes in Markdown](https://amanhimself.dev/blog/inline-footnotes-in-markdown/) - Mon, May 12 2025
 - [Using mas with homebrew for a streamlined macOS setup](https://amanhimself.dev/blog/using-mas-with-homebrew/) - Fri, May 02 2025
 <!-- BLOG-POSTS:END -->
+
+**Follow me on:**
+
+- Blog: `https://amanhimself.dev`
+- X: `https://x.com/amanhimself`
+- Bluesky: `https://bsky.app/profile/aman.bsky.social`
