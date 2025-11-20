@@ -5,7 +5,6 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
-
 - [How to use multiple iOS simulators at once with Expo CLI](https://amanhimself.dev/blog/switch-between-ios-simulators/) - Sat, Nov 08 2025
 - [Large header title in Expo Router](https://amanhimself.dev/blog/large-header-title-in-expo-router/) - Sun, Nov 02 2025
 - [RSS feed in an Astro blog](https://amanhimself.dev/blog/rss-feed-in-an-astro-blog/) - Sun, Oct 12 2025
