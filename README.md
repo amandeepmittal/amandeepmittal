@@ -16,9 +16,3 @@
 - [Inline footnotes in Markdown](https://amanhimself.dev/blog/inline-footnotes-in-markdown/) - Mon, May 12 2025
 - [Using mas with homebrew for a streamlined macOS setup](https://amanhimself.dev/blog/using-mas-with-homebrew/) - Fri, May 02 2025
 <!-- BLOG-POSTS:END -->
-
-**Follow me on:**
-
-- Blog: [amanhimself.dev](https://amanhimself.dev)
-- X: [@amanhimself](https://x.com/amanhimself)
-- Bluesky: [@aman.bsky.social](https://bsky.app/profile/aman.bsky.social)
