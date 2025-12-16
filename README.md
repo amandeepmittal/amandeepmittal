@@ -5,6 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Wait, there are smart quotes in my docs](https://amanhimself.dev/blog/smart-quotes-in-documentation/) - Mon, Dec 15 2025
 - [My default apps in 2025](https://amanhimself.dev/blog/default-apps-2025/) - Wed, Dec 10 2025
 - [Week notes 11](https://amanhimself.dev/blog/week-notes-11/) - Sun, Dec 07 2025
 - [Create a copy as markdown button for LLMs in an MDX documentation site](https://amanhimself.dev/blog/create-a-copy-as-markdown-for-mdx-documentation/) - Wed, Dec 03 2025
@@ -14,5 +15,4 @@
 - [RSS feed in an Astro blog](https://amanhimself.dev/blog/rss-feed-in-an-astro-blog/) - Sun, Oct 12 2025
 - [Content insets with FlatList in React Native](https://amanhimself.dev/blog/content-insets-with-flatlist/) - Fri, Jul 18 2025
 - [Exploring React Native: Header blur effect in Expo Router](https://amanhimself.dev/blog/blur-effect-in-header-with-expo-router/) - Sun, Jun 22 2025
-- [Advanced code blocks with language labels and copy buttons in Astro](https://amanhimself.dev/blog/advanced-code-blocks-with-shiki-and-astro/) - Thu, Jun 12 2025
 <!-- BLOG-POSTS:END -->
