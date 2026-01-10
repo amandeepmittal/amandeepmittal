@@ -5,6 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+- [2025 year in books](https://amanhimself.dev/blog/2025-year-in-books/) - Fri, Jan 09 2026
 - [First few days with Codex CLI](https://amanhimself.dev/blog/first-few-days-with-codex-cli/) - Sun, Jan 04 2026
 - [Adding Static Quest webring](https://amanhimself.dev/blog/adding-static-quest-webring/) - Sat, Dec 27 2025
 - [How I added llms.txt to my Astro blog](https://amanhimself.dev/blog/add-llms-txt-to-an-astro-blog/) - Wed, Dec 24 2025
@@ -14,5 +15,4 @@
 - [My default apps in 2025](https://amanhimself.dev/blog/default-apps-2025/) - Wed, Dec 10 2025
 - [Week notes 11](https://amanhimself.dev/blog/week-notes-11/) - Sun, Dec 07 2025
 - [Create a copy as markdown button for LLMs in an MDX documentation site](https://amanhimself.dev/blog/create-a-copy-as-markdown-for-mdx-documentation/) - Wed, Dec 03 2025
-- [How to add a recent posts section to your Astro blog](https://amanhimself.dev/blog/add-recents-posts-astro-section/) - Fri, Nov 28 2025
 <!-- BLOG-POSTS:END -->
