@@ -5,6 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+- [TIL about git shortlog](https://amanhimself.dev/blog/til-about-git-shortlog/) - Sun, Feb 01 2026
 - [2025 - A year in review](https://amanhimself.dev/blog/year-in-review-2025/) - Fri, Jan 30 2026
 - [2025 blog stats](https://amanhimself.dev/blog/2025-blog-stats/) - Sat, Jan 24 2026
 - [Lessons from 10 years of blogging](https://amanhimself.dev/blog/lessons-from-10-years-of-blogging/) - Sat, Jan 17 2026
@@ -14,5 +15,4 @@
 - [Adding Static Quest webring](https://amanhimself.dev/blog/adding-static-quest-webring/) - Sat, Dec 27 2025
 - [How I added llms.txt to my Astro blog](https://amanhimself.dev/blog/add-llms-txt-to-an-astro-blog/) - Wed, Dec 24 2025
 - [Week notes 12](https://amanhimself.dev/blog/week-notes-12/) - Sun, Dec 21 2025
-- [Add a yearly post-count visual to your Astro blog](https://amanhimself.dev/blog/add-yearly-post-count-to-astro-blog/) - Fri, Dec 19 2025
 <!-- BLOG-POSTS:END -->
