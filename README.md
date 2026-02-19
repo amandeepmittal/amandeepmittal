@@ -5,6 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Using images in Claude Code](https://amanhimself.dev/blog/using-images-in-claude-code/) - Wed, Feb 18 2026
 - [Running headless Codex CLI inside Claude Code](https://amanhimself.dev/blog/running-headless-codex-cli-inside-claude-code/) - Fri, Feb 13 2026
 - [TIL about tracking your Claude Code tokens usage](https://amanhimself.dev/blog/claude-code-tokens-usage/) - Wed, Feb 11 2026
 - [TIL about tracking your Codex tokens usage](https://amanhimself.dev/blog/codex-tokens-usage/) - Sun, Feb 08 2026
@@ -14,5 +15,4 @@
 - [2025 blog stats](https://amanhimself.dev/blog/2025-blog-stats/) - Sat, Jan 24 2026
 - [Lessons from 10 years of blogging](https://amanhimself.dev/blog/lessons-from-10-years-of-blogging/) - Sat, Jan 17 2026
 - [Week notes 13](https://amanhimself.dev/blog/week-notes-13/) - Sun, Jan 11 2026
-- [2025 year in books](https://amanhimself.dev/blog/2025-year-in-books/) - Fri, Jan 09 2026
 <!-- BLOG-POSTS:END -->
