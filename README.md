@@ -5,6 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Using Ghostty for the first time](https://amanhimself.dev/blog/using-ghostty/) - Wed, Mar 04 2026
 - [Slash pages you need for your blog](https://amanhimself.dev/blog/slash-pages-you-need-for-your-blog/) - Sat, Feb 28 2026
 - [Using images in Claude Code](https://amanhimself.dev/blog/using-images-in-claude-code/) - Wed, Feb 18 2026
 - [Running headless Codex CLI inside Claude Code](https://amanhimself.dev/blog/running-headless-codex-cli-inside-claude-code/) - Fri, Feb 13 2026
@@ -14,5 +15,4 @@
 - [TIL about git shortlog](https://amanhimself.dev/blog/til-about-git-shortlog/) - Sun, Feb 01 2026
 - [2025 - A year in review](https://amanhimself.dev/blog/year-in-review-2025/) - Fri, Jan 30 2026
 - [2025 blog stats](https://amanhimself.dev/blog/2025-blog-stats/) - Sat, Jan 24 2026
-- [Lessons from 10 years of blogging](https://amanhimself.dev/blog/lessons-from-10-years-of-blogging/) - Sat, Jan 17 2026
 <!-- BLOG-POSTS:END -->
