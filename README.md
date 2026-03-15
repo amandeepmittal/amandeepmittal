@@ -5,7 +5,8 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
-- [TIL - Remotely accessing one MacBook from another MacBook](https://amanhimself.dev/blog/remotely-access-macbook-from-another-macbook/) - Wed, Mar 11 2026
+- [Color-coding my Claude Code sessions](https://amanhimself.dev/blog/color-coding-claude-code-sessions/) - Sat, Mar 14 2026
+- [TIL Remotely accessing one MacBook from another MacBook](https://amanhimself.dev/blog/remotely-access-macbook-from-another-macbook/) - Wed, Mar 11 2026
 - [Using Ghostty for the first time](https://amanhimself.dev/blog/using-ghostty/) - Wed, Mar 04 2026
 - [Slash pages you need for your blog](https://amanhimself.dev/blog/slash-pages-you-need-for-your-blog/) - Sat, Feb 28 2026
 - [Using images in Claude Code](https://amanhimself.dev/blog/using-images-in-claude-code/) - Wed, Feb 18 2026
@@ -14,5 +15,4 @@
 - [TIL about tracking your Codex tokens usage](https://amanhimself.dev/blog/codex-tokens-usage/) - Sun, Feb 08 2026
 - [Migrating from Cursor to VS Code](https://amanhimself.dev/blog/migrating-from-cursor-to-vscode/) - Sat, Feb 07 2026
 - [TIL about git shortlog](https://amanhimself.dev/blog/til-about-git-shortlog/) - Sun, Feb 01 2026
-- [2025 - A year in review](https://amanhimself.dev/blog/year-in-review-2025/) - Fri, Jan 30 2026
 <!-- BLOG-POSTS:END -->
