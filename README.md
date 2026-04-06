@@ -5,6 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Week notes 15](https://amanhimself.dev/blog/week-notes-15/) - Sun, Apr 05 2026
 - [Week notes 14](https://amanhimself.dev/blog/week-notes-14/) - Sun, Mar 29 2026
 - [Docs discoverability layers](https://amanhimself.dev/blog/docs-discoverability-layers/) - Sat, Mar 28 2026
 - [My Starship prompt setup](https://amanhimself.dev/blog/my-starship-prompt-setup/) - Sun, Mar 22 2026
@@ -14,5 +15,4 @@
 - [Slash pages you need for your blog](https://amanhimself.dev/blog/slash-pages-you-need-for-your-blog/) - Sat, Feb 28 2026
 - [Using images in Claude Code](https://amanhimself.dev/blog/using-images-in-claude-code/) - Wed, Feb 18 2026
 - [Running headless Codex CLI inside Claude Code](https://amanhimself.dev/blog/running-headless-codex-cli-inside-claude-code/) - Fri, Feb 13 2026
-- [TIL about tracking your Claude Code tokens usage](https://amanhimself.dev/blog/claude-code-tokens-usage/) - Wed, Feb 11 2026
 <!-- BLOG-POSTS:END -->
