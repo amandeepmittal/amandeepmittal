@@ -5,6 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Moving away from Oh My Zsh (OMZ)](https://amanhimself.dev/blog/moving-away-from-oh-my-zsh/) - Thu, May 14 2026
 - [New blog theme again](https://amanhimself.dev/blog/new-blog-theme-again/) - Sat, May 09 2026
 - [Week notes 17](https://amanhimself.dev/blog/week-notes-17/) - Sun, May 03 2026
 - [Playwright to Chrome](https://amanhimself.dev/blog/playwright-to-chrome/) - Sun, Apr 19 2026
@@ -14,5 +15,4 @@
 - [Week notes 15](https://amanhimself.dev/blog/week-notes-15/) - Sun, Apr 05 2026
 - [Week notes 14](https://amanhimself.dev/blog/week-notes-14/) - Sun, Mar 29 2026
 - [Docs discoverability layers](https://amanhimself.dev/blog/docs-discoverability-layers/) - Sat, Mar 28 2026
-- [My Starship prompt setup](https://amanhimself.dev/blog/my-starship-prompt-setup/) - Sun, Mar 22 2026
 <!-- BLOG-POSTS:END -->
