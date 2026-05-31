@@ -5,6 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+- [How I track my token maxxing](https://amanhimself.dev/blog/claude-code-tokens-usage/) - Sat, May 30 2026
 - [Moving away from Oh My Zsh (OMZ)](https://amanhimself.dev/blog/moving-away-from-oh-my-zsh/) - Thu, May 14 2026
 - [New blog theme again](https://amanhimself.dev/blog/new-blog-theme-again/) - Sat, May 09 2026
 - [Week notes 17](https://amanhimself.dev/blog/week-notes-17/) - Sun, May 03 2026
@@ -14,5 +15,4 @@
 - [Replacing rm command with trash in Claude Code](https://amanhimself.dev/blog/replacing-rm-with-trash-in-claude-code/) - Sat, Apr 11 2026
 - [Week notes 15](https://amanhimself.dev/blog/week-notes-15/) - Sun, Apr 05 2026
 - [Week notes 14](https://amanhimself.dev/blog/week-notes-14/) - Sun, Mar 29 2026
-- [Docs discoverability layers](https://amanhimself.dev/blog/docs-discoverability-layers/) - Sat, Mar 28 2026
 <!-- BLOG-POSTS:END -->
