@@ -5,7 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
-- [How I track my token maxxing](https://amanhimself.dev/blog/claude-code-tokens-usage/) - Sat, May 30 2026
+- [How I track my token maxxing](https://amanhimself.dev/blog/track-my-token-maxxing/) - Sat, May 30 2026
 - [Moving away from Oh My Zsh (OMZ)](https://amanhimself.dev/blog/moving-away-from-oh-my-zsh/) - Thu, May 14 2026
 - [New blog theme again](https://amanhimself.dev/blog/new-blog-theme-again/) - Sat, May 09 2026
 - [Week notes 17](https://amanhimself.dev/blog/week-notes-17/) - Sun, May 03 2026
