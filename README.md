@@ -5,6 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+- [How to set a custom folder order in Obsidian](https://amanhimself.dev/blog/custom-folder-order-in-obsidian/) - Wed, Jul 15 2026
 - [A minimal Obsidian vault structure that sticks](https://amanhimself.dev/blog/minimal-obsidian-vault-structure/) - Wed, Jul 08 2026
 - [How I track my token maxxing](https://amanhimself.dev/blog/track-my-token-maxxing/) - Sat, May 30 2026
 - [Moving away from Oh My Zsh (OMZ)](https://amanhimself.dev/blog/moving-away-from-oh-my-zsh/) - Thu, May 14 2026
@@ -14,5 +15,4 @@
 - [My Mac setup](https://amanhimself.dev/blog/mac-setup/) - Sat, Apr 18 2026
 - [Week notes 16](https://amanhimself.dev/blog/week-notes-16/) - Sun, Apr 12 2026
 - [Replacing rm command with trash in Claude Code](https://amanhimself.dev/blog/replacing-rm-with-trash-in-claude-code/) - Sat, Apr 11 2026
-- [Week notes 15](https://amanhimself.dev/blog/week-notes-15/) - Sun, Apr 05 2026
 <!-- BLOG-POSTS:END -->
