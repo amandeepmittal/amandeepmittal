@@ -5,6 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+
 - [How to set a custom folder order in Obsidian](https://amanhimself.dev/blog/custom-folder-order-in-obsidian/) - Wed, Jul 15 2026
 - [A minimal Obsidian vault structure that sticks](https://amanhimself.dev/blog/minimal-obsidian-vault-structure/) - Wed, Jul 08 2026
 - [How I track my token maxxing](https://amanhimself.dev/blog/track-my-token-maxxing/) - Sat, May 30 2026
@@ -16,3 +17,7 @@
 - [Week notes 16](https://amanhimself.dev/blog/week-notes-16/) - Sun, Apr 12 2026
 - [Replacing rm command with trash in Claude Code](https://amanhimself.dev/blog/replacing-rm-with-trash-in-claude-code/) - Sat, Apr 11 2026
 <!-- BLOG-POSTS:END -->
+
+### My apps
+
+- [RHT: Reading Habit Tracker](https://amanhimself.dev/rht/) - Build a daily reading habit with one tap a day. <a href="https://play.google.com/store/apps/details?id=com.amanhimself.readinghabittracker"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="32" alt="Get it on Google Play" valign="middle" /></a>
