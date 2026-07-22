@@ -5,7 +5,6 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
-
 - [How to set a custom folder order in Obsidian](https://amanhimself.dev/blog/custom-folder-order-in-obsidian/) - Wed, Jul 15 2026
 - [A minimal Obsidian vault structure that sticks](https://amanhimself.dev/blog/minimal-obsidian-vault-structure/) - Wed, Jul 08 2026
 - [How I track my token maxxing](https://amanhimself.dev/blog/track-my-token-maxxing/) - Sat, May 30 2026
