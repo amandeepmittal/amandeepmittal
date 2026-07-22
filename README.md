@@ -22,5 +22,5 @@
 
 ### My apps
 
-- [RHT: Reading Habit Tracker](https://amanhimself.dev/rht/) - Build a daily reading habit with one tap a day. <a href="https://play.google.com/store/apps/details?id=com.amanhimself.readinghabittracker"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="32" alt="Get it on Google Play" valign="middle" /></a>
+- [RHT: Reading Habit Tracker](https://amanhimself.dev/rht/) - Build a daily reading habit with one tap a day. <a href="https://apps.apple.com/us/app/rht-reading-habit-tracker/id6792475195"><img src="https://toolbox.marketingtools.apple.com/api/badges/download-on-the-app-store/black/en-us" height="26" alt="Download on the App Store" valign="middle" /></a> <a href="https://play.google.com/store/apps/details?id=com.amanhimself.readinghabittracker"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="32" alt="Get it on Google Play" valign="middle" /></a>
 - [SkillsBar](https://amanhimself.dev/skillsbar/) - Claude Code and Codex skills, plugins, and agents in the macOS menu bar. <a href="https://github.com/amandeepmittal/skillsbar/releases/latest"><img src="https://img.shields.io/badge/Download-macOS-000000?style=flat-square&logo=apple&logoColor=white" height="22" alt="Download for macOS" valign="middle" /></a>
