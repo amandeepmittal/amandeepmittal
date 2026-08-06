@@ -5,6 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+- [2026 - half year in books](https://amanhimself.dev/blog/2026-half-year-in-books/) - Wed, Aug 05 2026
 - [Notes that can never be atomic](https://amanhimself.dev/blog/notes-that-can-never-be-atomic/) - Wed, Jul 22 2026
 - [How to set a custom folder order in Obsidian](https://amanhimself.dev/blog/custom-folder-order-in-obsidian/) - Wed, Jul 15 2026
 - [A minimal Obsidian vault structure that sticks](https://amanhimself.dev/blog/minimal-obsidian-vault-structure/) - Wed, Jul 08 2026
@@ -14,7 +15,6 @@
 - [Week notes 17](https://amanhimself.dev/blog/week-notes-17/) - Sun, May 03 2026
 - [Playwright to Chrome](https://amanhimself.dev/blog/playwright-to-chrome/) - Sun, Apr 19 2026
 - [My Mac setup](https://amanhimself.dev/blog/mac-setup/) - Sat, Apr 18 2026
-- [Week notes 16](https://amanhimself.dev/blog/week-notes-16/) - Sun, Apr 12 2026
 <!-- BLOG-POSTS:END -->
 
 ---
