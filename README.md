@@ -5,6 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+- [From plan mode to auto mode in Claude Code](https://amanhimself.dev/blog/from-plan-mode-to-auto-mode-claude-code/) - Sun, Aug 09 2026
 - [2026 - half year in books](https://amanhimself.dev/blog/2026-half-year-in-books/) - Wed, Aug 05 2026
 - [Notes that can never be atomic](https://amanhimself.dev/blog/notes-that-can-never-be-atomic/) - Wed, Jul 22 2026
 - [How to set a custom folder order in Obsidian](https://amanhimself.dev/blog/custom-folder-order-in-obsidian/) - Wed, Jul 15 2026
@@ -14,7 +15,6 @@
 - [New blog theme again](https://amanhimself.dev/blog/new-blog-theme-again/) - Sat, May 09 2026
 - [Week notes 17](https://amanhimself.dev/blog/week-notes-17/) - Sun, May 03 2026
 - [Playwright to Chrome](https://amanhimself.dev/blog/playwright-to-chrome/) - Sun, Apr 19 2026
-- [My Mac setup](https://amanhimself.dev/blog/mac-setup/) - Sat, Apr 18 2026
 <!-- BLOG-POSTS:END -->
 
 ---
