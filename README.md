@@ -5,6 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+- [My impressions after using Claude Code for six months](https://amanhimself.dev/blog/impressions-after-using-claude-code-for-six-months/) - Mon, Aug 17 2026
 - [From plan mode to auto mode in Claude Code](https://amanhimself.dev/blog/from-plan-mode-to-auto-mode-claude-code/) - Sun, Aug 09 2026
 - [2026 - half year in books](https://amanhimself.dev/blog/2026-half-year-in-books/) - Wed, Aug 05 2026
 - [Notes that can never be atomic](https://amanhimself.dev/blog/notes-that-can-never-be-atomic/) - Wed, Jul 22 2026
@@ -14,7 +15,6 @@
 - [Moving away from Oh My Zsh (OMZ)](https://amanhimself.dev/blog/moving-away-from-oh-my-zsh/) - Thu, May 14 2026
 - [New blog theme again](https://amanhimself.dev/blog/new-blog-theme-again/) - Sat, May 09 2026
 - [Week notes 17](https://amanhimself.dev/blog/week-notes-17/) - Sun, May 03 2026
-- [Playwright to Chrome](https://amanhimself.dev/blog/playwright-to-chrome/) - Sun, Apr 19 2026
 <!-- BLOG-POSTS:END -->
 
 ---
