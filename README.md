@@ -5,6 +5,7 @@
 ### Recent blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Adding Content-Signal to a docs site](https://amanhimself.dev/blog/adding-content-signal-to-docs-site/) - Mon, Aug 24 2026
 - [My impressions after using Claude Code for six months](https://amanhimself.dev/blog/impressions-after-using-claude-code-for-six-months/) - Mon, Aug 17 2026
 - [From plan mode to auto mode in Claude Code](https://amanhimself.dev/blog/from-plan-mode-to-auto-mode-claude-code/) - Sun, Aug 09 2026
 - [2026 - half year in books](https://amanhimself.dev/blog/2026-half-year-in-books/) - Wed, Aug 05 2026
@@ -14,7 +15,6 @@
 - [How I track my token maxxing](https://amanhimself.dev/blog/track-my-token-maxxing/) - Sat, May 30 2026
 - [Moving away from Oh My Zsh (OMZ)](https://amanhimself.dev/blog/moving-away-from-oh-my-zsh/) - Thu, May 14 2026
 - [New blog theme again](https://amanhimself.dev/blog/new-blog-theme-again/) - Sat, May 09 2026
-- [Week notes 17](https://amanhimself.dev/blog/week-notes-17/) - Sun, May 03 2026
 <!-- BLOG-POSTS:END -->
 
 ---
